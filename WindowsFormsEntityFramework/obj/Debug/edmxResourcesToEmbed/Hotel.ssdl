@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище HotelModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Клиент">
+    <Key>
+      <PropertyRef Name="Код_клиента" />
+    </Key>
+    <Property Name="Код_клиента" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Фамилия" Type="nvarchar(max)" />
+    <Property Name="Имя" Type="nvarchar(max)" />
+    <Property Name="Отчество" Type="nvarchar(max)" />
+    <Property Name="Возраст" Type="int" />
+    <Property Name="Телефон" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Номер">
+    <Key>
+      <PropertyRef Name="Код_номера" />
+    </Key>
+    <Property Name="Код_номера" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Вместимость" Type="nvarchar(max)" />
+    <Property Name="Стоимость" Type="money" />
+    <Property Name="Статус" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Сотрудник">
+    <Key>
+      <PropertyRef Name="Код_сотрудника" />
+    </Key>
+    <Property Name="Код_сотрудника" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Фамилия" Type="nvarchar(max)" />
+    <Property Name="Имя" Type="nvarchar(max)" />
+    <Property Name="Отчество" Type="nvarchar(max)" />
+    <Property Name="Возраст" Type="int" />
+    <Property Name="Телефон" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="Хранилище HotelModelContainer">
+    <EntitySet Name="Клиент" EntityType="Self.Клиент" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Номер" EntityType="Self.Номер" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Сотрудник" EntityType="Self.Сотрудник" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

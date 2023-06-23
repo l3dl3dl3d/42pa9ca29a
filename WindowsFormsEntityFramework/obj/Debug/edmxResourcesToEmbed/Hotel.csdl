@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HotelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Клиент">
+    <Key>
+      <PropertyRef Name="Код_клиента" />
+    </Key>
+    <Property Name="Код_клиента" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Фамилия" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Имя" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Отчество" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Возраст" Type="Int32" />
+    <Property Name="Телефон" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Номер">
+    <Key>
+      <PropertyRef Name="Код_номера" />
+    </Key>
+    <Property Name="Код_номера" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Вместимость" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Стоимость" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Статус" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Сотрудник">
+    <Key>
+      <PropertyRef Name="Код_сотрудника" />
+    </Key>
+    <Property Name="Код_сотрудника" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Фамилия" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Имя" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Отчество" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Возраст" Type="Int32" />
+    <Property Name="Телефон" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="HotelEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Клиент" EntityType="Self.Клиент" />
+    <EntitySet Name="Номер" EntityType="Self.Номер" />
+    <EntitySet Name="Сотрудник" EntityType="Self.Сотрудник" />
+  </EntityContainer>
+</Schema>

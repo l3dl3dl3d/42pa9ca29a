@@ -1,0 +1,40 @@
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\WindowsFormsEntityFramework.exe.config
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\WindowsFormsEntityFramework.exe
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\WindowsFormsEntityFramework.pdb
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.AssemblyReference.cache
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form1.resources
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Properties.Resources.resources
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.GenerateResource.cache
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.exe
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.pdb
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form2_Формы.resources
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.CopyComplete
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form2_Клиент.resources
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form2_Сотрудник.resources
+C:\Users\German\source\repos\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form2_Номер.resources
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\WindowsFormsEntityFramework.exe.config
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\WindowsFormsEntityFramework.exe
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\WindowsFormsEntityFramework.pdb
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\EntityFramework.dll
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\EntityFramework.xml
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.AssemblyReference.cache
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.SuggestedBindingRedirects.cache
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form1.resources
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form2_Клиент.resources
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form2_Номер.resources
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form2_Сотрудник.resources
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Form2_Формы.resources
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.Properties.Resources.resources
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.GenerateResource.cache
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.CoreCompileInputs.cache
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.csproj.CopyComplete
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.exe
+I:\Антошкин\ПП\2 лаба\WindowsFormsEntityFramework\WindowsFormsEntityFramework\obj\Debug\WindowsFormsEntityFramework.pdb
